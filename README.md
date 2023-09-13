@@ -19,7 +19,7 @@ Desenvolvimento de um website para cadastro de usuários e controle de gestão d
 <b>- Clone o repositório com o comando: </b> `$ git clone https://github.com/laishelen/appReact` <br>
 
 
-<b>- Execute no terminal: </b> `npm install` <br>
+<b>- Execute no terminal para instalar dependências: </b> `npm install` <br>
 
 
 <b>- Execute o aplicativo React: </b> `npm start` - Navegue até [http://localhost:3000]. <br>
