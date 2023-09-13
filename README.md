@@ -22,7 +22,7 @@ Desenvolvimento de um website para cadastro de usuários e controle de gestão d
 <b>- Execute no terminal para instalar dependências: </b> `npm install` <br>
 
 
-<b>- Execute o aplicativo React: </b> `npm start` - Navegue até [http://localhost:3000]. <br>
+<b>- Execute o aplicativo React: </b> `npm start` - Navegue até `http://localhost:3000`. <br>
 
 
 <b>- Execute o servidor backend: </b> `npm run server` <br>
