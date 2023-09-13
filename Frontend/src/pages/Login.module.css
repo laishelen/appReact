@@ -1,0 +1,44 @@
+.container {
+    margin-top: 5%;
+    margin-bottom: 4%;
+}
+
+.Card {
+    height: 500px;
+    align-items: center; 
+    background-color: rgba(45, 53, 48, 0.092);
+}
+
+.Logo {
+    width: 488px;
+}
+
+form {
+    width: 65%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 5%;
+    margin-left: 18%;  
+}
+
+.h4 {
+    text-align: center;
+}
+
+input {    
+    margin-bottom: 8px;
+}
+
+Button {
+    margin-top: 25px;   
+}
+
+span .Link {
+    margin-left: 18%;
+}
+
+
+span {
+    padding-top: 5px;
+    font-size: 10pt;
+}

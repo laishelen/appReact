@@ -1,0 +1,40 @@
+.container {
+    margin-top: 5%;
+    margin-bottom: 4%;
+    background-color: rgba(45, 53, 48, 0.048);
+    border-radius: 30px;
+}
+
+.grid {
+    height: 535px;
+    margin-bottom: 15px;
+    background-color: rgba(45, 53, 48, 0.092);
+    padding-bottom: 32px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.lorem {
+    height: 535px;
+    background-color: rgba(45, 53, 48, 0.092);
+    text-align: justify;
+    padding-left: 4%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+p {
+    padding-top: 15px;
+    width: 96%;
+}
+
+h2 {
+    text-align: center;
+    font-size: 35pt;
+}
+
+.quemSomos {
+    width: 70%;
+    height: 470px;
+    border-radius: 500px;
+}

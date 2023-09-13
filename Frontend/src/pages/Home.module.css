@@ -1,0 +1,36 @@
+.slide1 {
+    width: 100%;
+}
+
+.slide2 {
+    width: 100%;
+}
+
+.slide3 {
+    width: 100%;
+}
+
+.slide4 {
+    width: 100%;
+}
+
+.container {
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+.news {    
+    text-align: justify;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+h4 {
+    font-size: 24pt;
+}
+
+.imagem2, .imagem3, .imagem4, .imagem1 {
+    width: 100%;
+}
